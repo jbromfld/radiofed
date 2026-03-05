@@ -1,5 +1,5 @@
-music21
-psycopg2-binary
-sqlalchemy
-pandas
-uuid
+music21>=9.1,<10
+psycopg2-binary>=2.9,<3
+sqlalchemy>=2.0,<3
+pandas>=2.0,<3
+python-dotenv>=0.19,<1
